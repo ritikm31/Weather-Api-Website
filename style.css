@@ -10,13 +10,13 @@ body {
 }
 
 .card {
-  width: 90%;
+ width: 90%;
   max-width: 470px;
   background: linear-gradient(135deg, #7ee8fa, #eec0c6);
   color: #fff;
-  margin: 100px auto 0;
+  margin: 20px auto;
   border-radius: 20px;
-  padding: 40px 35px;
+  padding: 40px 10px;
   text-align: center;
 }
 
